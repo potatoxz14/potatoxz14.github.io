@@ -17,9 +17,9 @@ cascade:
       kind: page
     pager: true
     editable: false
-    hide_date: true
-    show_date_updated: false
-    reading_time: false
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
     commentable: true
     show_related: false
     share: true
