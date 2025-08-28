@@ -1,14 +1,22 @@
 ---
-title: Linux
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2025-10-27
-authors:
-  - admin
-tags:
-  - Linux
+title: 🎉 Linux
+summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+date: 2025-8-28
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
+authors:
+  - admin
+
+tags:
+  - Academic
+  - Hugo Blox
+  - Markdown
 ---
+
 # 删除内核
 
 1.查看系统存在的内核
