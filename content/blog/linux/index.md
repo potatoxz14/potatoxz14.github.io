@@ -1,7 +1,6 @@
 ---
 title: 🎉 Linux
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2025-8-28
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
