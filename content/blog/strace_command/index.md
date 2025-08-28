@@ -1,6 +1,6 @@
 ---
-title: 🎉 Linux command free
-summary: free 命令详解
+title: 🎉 Strace
+summary: Strace 使用方法
 date: 2025-08-28
 
 # Featured image
@@ -13,7 +13,6 @@ authors:
 
 tags:
   - Linux
-  - 源码详解
 ---
 
 参考链接：https://elinux.org/images/8/81/Elc2013_Garcia.pdf
