@@ -1,6 +1,6 @@
 ---
-title: ✅ Linux | 内核相关操作
-summary: 重新编译内核，以及其中会遇到的问题
+title: ✅ Linux
+summary: english
 date: 2025-8-28
 authors:
   - Potato
