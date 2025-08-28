@@ -1,6 +1,6 @@
 ---
-title: 重新编译Linux内核
-summary: 修改Linux内核、重新编译以及过程中可能遇到的问题
+title: Linux
+summary: Create a personal knowledge base and share your knowledge with your peers.
 date: 2025-8-28
 authors:
   - admin
