@@ -1,16 +1,15 @@
 ---
-title: ✅ Linux
-summary: english
-date: 2025-8-28
+title: 🧠 Sharpen your thinking with a second brain
+summary: Create a personal knowledge base and share your knowledge with your peers.
+date: 2023-10-26
 authors:
-  - Potato
+  - admin
 tags:
-  - Hugo Blox
-  - Linux
+  - Second Brain
+  - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
 # 删除内核
 
 1.查看系统存在的内核
