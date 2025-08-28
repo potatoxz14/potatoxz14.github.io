@@ -1,12 +1,11 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 重新编译Linux内核
+summary: 修改Linux内核、重新编译以及过程中可能遇到的问题
+date: 2025-8-28
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Linux
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
