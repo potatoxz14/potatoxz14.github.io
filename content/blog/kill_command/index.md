@@ -13,7 +13,7 @@ authors:
 
 tags:
   - Linux
-  - 源码分析
+  - 源码详解
 ---
 # kill信号处理过程
 
