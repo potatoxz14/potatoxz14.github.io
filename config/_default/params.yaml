@@ -45,9 +45,9 @@ header:
 
 # Localization
 locale:
-  date_format: '2025-1-1'
-  time_format: '3:04 PM'
-
+  # date_format: 'Jan 2, 2025'
+  # time_format: '3:04 PM'
+  
 # Site features
 features:
   math:
