@@ -1,7 +1,7 @@
 ---
 title: Linux
 summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2025-8-28
+date: 2025-10-27
 authors:
   - admin
 tags:
