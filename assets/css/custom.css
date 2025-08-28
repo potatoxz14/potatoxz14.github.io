@@ -8,8 +8,8 @@
 /* 暗色模式下样式 */
 @media (prefers-color-scheme: dark) {
   code, pre {
-    color: #060606;
-    /* background-color: #2d2d2d; */
+    color: #5c5c5c;
+    background-color: #f2efef;
     border-color: #f3ecec;
   }
 }
