@@ -1,7 +1,7 @@
 ---
 title: 🎉 Linux
 summary: 关于修改Linux内核
-date: 2025-8-26
+date: 2025-08-26
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
