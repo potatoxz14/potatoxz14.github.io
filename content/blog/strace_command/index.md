@@ -1,3 +1,21 @@
+---
+title: 🎉 Linux command free
+summary: free 命令详解
+date: 2025-08-28
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
+authors:
+  - admin
+
+tags:
+  - Linux
+  - 源码详解
+---
+
 参考链接：https://elinux.org/images/8/81/Elc2013_Garcia.pdf
 
 https://zhuanlan.zhihu.com/p/39788032
