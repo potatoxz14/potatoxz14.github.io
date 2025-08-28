@@ -1,7 +1,7 @@
 ---
 title: 🧠 Sharpen your thinking with a second brain
 summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2025-8-26
+# date: 2025-8-26
 authors:
   - admin
 tags:
