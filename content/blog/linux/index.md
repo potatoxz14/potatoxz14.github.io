@@ -1,6 +1,7 @@
 ---
 title: 🎉 Linux
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: 关于修改Linux内核
+date: 2025-8-23
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -11,12 +12,10 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Linux
 ---
 
-# 删除内核
+## 删除内核
 
 1.查看系统存在的内核
 
@@ -80,7 +79,7 @@ sudo apt-get autoremove
 
 
 
-# 编译内核
+## 编译内核
 
 Ubuntu下重新编译内核的基本方法和过程
 编译内核基本方法
@@ -126,13 +125,13 @@ sudo make modules_install
 sudo make install
 ```
 
-### 查看所有内核
+## 查看所有内核
 
 ```bash
 dpkg --get-selections | grep linux
 ```
 
-# 修改启动内核顺序：
+## 修改启动内核顺序：
 
 ```shell
 1、 查看当前内核的启动顺序
@@ -188,18 +187,18 @@ sudo apt-get remove	linux-modules-extra-4.15.0-39-generic
 sudo dpkg -P linux-image-4.15.0-39-generic 
 ```
 
- # 其他内核名称可以用 tab 键自动补全来查看
+ ## 其他内核名称可以用 tab 键自动补全来查看
 
 
 证书问题：https://blog.csdn.net/phmatthaus/article/details/124353775
 
-# 修改版本名称：MAKEFILE
+## 修改版本名称：MAKEFILE
 
 ```shell
 vim Makefile
 ```
 
-# 修改cgroupv1->v2
+## 修改cgroupv1->v2
 
 ```shell
 sudo  vim /etc/default/grub
@@ -209,7 +208,7 @@ sudo update-grub
 sudo reboot now
 ```
 
-# 添加输出
+## 添加输出
 
 ```c
 if (strstr(current->comm, "cat"))
@@ -230,7 +229,7 @@ module_start module_start+0x0/0x62 [hello]
 但是为了支持这个功能你需要开启CONFIG_KALLSYMS 选项
 ```
 
-# ubuntu同步时间
+## ubuntu同步时间
 
 1.打开终端输入以下命令安装ntpdate工具。
 
@@ -275,13 +274,13 @@ CVE-2019-6736修复方式：
 这一部分内存referably doing self-clean-up and not being writeable
 ```
 
-# 屏蔽输出
+## 屏蔽输出
 
 ```
 ./command > /dev/null 2>&1
 ```
 
-# 查看内存是否可回收
+## 查看内存是否可回收
 
 ```shell
 查看使用objects或内存最多的slab内存信息。
