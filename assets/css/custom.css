@@ -1,9 +1,9 @@
 /* custom.css */
 /* 默认样式 - 亮色模式下 */
-code, pre {
+/* code, pre {
   color: #333;
   background-color: #0e0d0d;
-}
+} */
 
 /* 暗色模式下样式 */
 @media (prefers-color-scheme: dark) {
